@@ -9,6 +9,10 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1L0t5btTSiLOypnmlNwzuFHAELDs3_nT1vtIXdyK-SEs/edit?usp=sharing)
 
+View my projects
+- [Exploratory Data Analysis on the Air Quality of India](https://github.com/anjaliramesh-datascience/air-quality-india-eda)
+- [Sales Forecasting with Machine Learning](https://github.com/anjaliramesh-datascience/walmart-sales-forecasting)
+
 
 
 <h3 align="left">Connect with me:</h3>
