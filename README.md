@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anjaliramesh.career@gmail.com**
 - 💼 View my [Data Science Portfolio](https://anjaliramesh-datascience.github.io/)
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1L0t5btTSiLOypnmlNwzuFHAELDs3_nT1vtIXdyK-SEs/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZBfFjnZrBUgt5UA5RNDhVpUkL5fUH8Hu/view?usp=sharing)
 
 View my projects
 - [Exploratory Data Analysis on the Air Quality of India](https://github.com/anjaliramesh-datascience/air-quality-india-eda)
