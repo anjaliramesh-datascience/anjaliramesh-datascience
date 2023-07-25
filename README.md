@@ -10,6 +10,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZBfFjnZrBUgt5UA5RNDhVpUkL5fUH8Hu/view?usp=sharing)
 
 View my projects
+- [Car Price Prediction](https://github.com/anjaliramesh-datascience/car-price-prediction)
 - [Exploratory Data Analysis on the Air Quality of India](https://github.com/anjaliramesh-datascience/air-quality-india-eda)
 - [Sales Forecasting with Machine Learning](https://github.com/anjaliramesh-datascience/walmart-sales-forecasting)
 
