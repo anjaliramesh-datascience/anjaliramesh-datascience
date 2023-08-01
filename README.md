@@ -7,12 +7,14 @@
 
 - 📫 How to reach me **anjaliramesh.career@gmail.com**
 - 💼 View my [Data Science Portfolio](https://anjaliramesh-datascience.github.io/)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZBfFjnZrBUgt5UA5RNDhVpUkL5fUH8Hu/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dT9rjBOYCvbP7AIfSbWvDGxq9Emb2MRE/view?usp=sharing)
 
 View my projects
-- [Car Price Prediction](https://github.com/anjaliramesh-datascience/car-price-prediction)
+- [SQL Analytics for Enhanced Business Intelligence](https://github.com/anjaliramesh-datascience/music-database-analysis)
 - [Exploratory Data Analysis on the Air Quality of India](https://github.com/anjaliramesh-datascience/air-quality-india-eda)
 - [Sales Forecasting with Machine Learning](https://github.com/anjaliramesh-datascience/walmart-sales-forecasting)
+- [Car Price Prediction](https://github.com/anjaliramesh-datascience/car-price-prediction)
+- [Facial Expression Recognition](https://github.com/anjaliramesh-datascience/Facial-Expression-Recognition)
 
 
 
